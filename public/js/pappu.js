@@ -35,7 +35,7 @@
 
       //pappu.w = pappu.sprite.width;
       mit.Pappu.w = mit.Pappu.sprite.width;
-      mit.Pappu.h = 60;
+      mit.Pappu.h = 70;
 
       // Sprite Frame Count
       mit.Pappu.max_fly_frame_count = 8;
@@ -62,7 +62,7 @@
       var cur_sprite_frame = this.fly_frame_count / this.change_per_frame;
       
       if (utils.isInt(cur_sprite_frame)) {
-        var source_y = cur_sprite_frame * 60;
+        var source_y = cur_sprite_frame * 70;
       }
 
       else {
@@ -70,7 +70,7 @@
 
         // Ultra smooth animations
         var old_sprite_frame = parseInt(this.fly_frame_count/this.change_per_frame)
-        var source_y = old_sprite_frame * 60;
+        var source_y = old_sprite_frame * 70;
       }
       
       // console.log(cur_sprite_frame, source_x);
@@ -124,11 +124,11 @@
           0,
           source_y,
           this.w,
-          60,
+          70,
           -this.w/2,
           -this.h/2,
           this.w,
-          60
+          70
         );
 
       ctx.restore();
@@ -138,7 +138,7 @@
       var cur_sprite_frame = this.fly_frame_count / this.change_per_frame;
       
       if (utils.isInt(cur_sprite_frame)) {
-        var source_y = cur_sprite_frame * 60;
+        var source_y = cur_sprite_frame * 70;
       }
 
       else {
@@ -146,7 +146,7 @@
 
         // Ultra smooth animations
         var old_sprite_frame = parseInt(this.fly_frame_count/this.change_per_frame)
-        var source_y = old_sprite_frame * 60;
+        var source_y = old_sprite_frame * 70;
       }
 
 
@@ -157,11 +157,11 @@
         0,
         0,
         this.w,
-        60,
+        70,
         this.x,
         this.y,
         this.w,
-        60
+        70
       );*/
       
       ctx.drawImage(
@@ -169,11 +169,11 @@
         0,
         source_y,
         this.w,
-        60,
+        70,
         this.x,
         this.y,
         this.w,
-        60
+        70
       );
     },
 
