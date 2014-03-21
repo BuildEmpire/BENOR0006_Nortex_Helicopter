@@ -26,9 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddd00498-e534-4c17-a8b8-6d3aea2269c9" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Workspaces\BuildEmpire\BENOR0006_Nortex_Helicopter\public\kong.htm" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.htm" afterPath="$PROJECT_DIR$/public/index.htm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/loader.js" afterPath="$PROJECT_DIR$/public/js/loader.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/pappu.js" afterPath="$PROJECT_DIR$/public/js/pappu.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -93,35 +90,7 @@
     <favorites_list name="BENOR0006_Nortex_Helicopter" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pappu.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/js/pappu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="34" selection-start="590" selection-end="590" vertical-scroll-proportion="0.23642534" vertical-offset="335" max-vertical-offset="6069">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pakia.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/pakia.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="172" column="33" selection-start="4132" selection-end="4132" vertical-scroll-proportion="-7.48" vertical-offset="2737" max-vertical-offset="3961">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loader.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/loader.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="22" selection-start="1289" selection-end="1289" vertical-scroll-proportion="-11.08" vertical-offset="522" max-vertical-offset="2193">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -315,22 +284,23 @@
       <created>1395416884067</created>
       <updated>1395416884067</updated>
       <workItem from="1395416887820" duration="2739000" />
-      <workItem from="1395423000094" duration="180000" />
+      <workItem from="1395423000094" duration="1212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2919000" />
+    <option name="totallyTimeSpent" value="3951000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -346,12 +316,11 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -426,19 +395,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/utils.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="909" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="909">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/backgrounds.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="103" column="8" selection-start="2483" selection-end="2483" vertical-scroll-proportion="0.36106488" vertical-offset="1534" max-vertical-offset="7803" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="312" column="40" selection-start="6879" selection-end="6899" vertical-scroll-proportion="0.79591835" vertical-offset="4836" max-vertical-offset="7990">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/main.css">
@@ -455,23 +419,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/loader.js">
+    <entry file="file://$PROJECT_DIR$/public/js/pappu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="22" selection-start="1289" selection-end="1289" vertical-scroll-proportion="-11.08" vertical-offset="522" max-vertical-offset="2193">
+        <state line="248" column="26" selection-start="5614" selection-end="5614" vertical-scroll-proportion="0.6284722" vertical-offset="3854" max-vertical-offset="6154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="364" column="11" selection-start="8345" selection-end="8345" vertical-scroll-proportion="0.33333334" vertical-offset="5992" max-vertical-offset="7990">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/pakia.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="172" column="33" selection-start="4132" selection-end="4132" vertical-scroll-proportion="-7.48" vertical-offset="2737" max-vertical-offset="3961">
+        <state line="171" column="33" selection-start="4069" selection-end="4069" vertical-scroll-proportion="4.1024303" vertical-offset="544" max-vertical-offset="3961">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/pappu.js">
+    <entry file="file://$PROJECT_DIR$/public/js/loader.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="34" selection-start="590" selection-end="590" vertical-scroll-proportion="0.23642534" vertical-offset="335" max-vertical-offset="6069">
+        <state line="47" column="22" selection-start="1289" selection-end="1289" vertical-scroll-proportion="0.4809028" vertical-offset="522" max-vertical-offset="2193">
           <folding />
         </state>
       </provider>

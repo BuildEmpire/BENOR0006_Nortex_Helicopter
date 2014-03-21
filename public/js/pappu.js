@@ -11,6 +11,7 @@
     invincible: 0,
     invincibility_start: 0,
     invincibility_time: 0,
+    is_clone: false,
     clones: [],
 
     rotate_angle: 0,
@@ -76,23 +77,25 @@
       // console.log(cur_sprite_frame, source_x);
 
       // Rotation on Flying
-      if (mit.flying_up) {
-        this.sound.play();
+      if (!this.is_clone) {
+        if (mit.flying_up) {
+          this.sound.play();
 
-        if (this.rotate_angle > -15) {
-          this.rotate_angle -= 2;
+          if (this.rotate_angle > -15) {
+            this.rotate_angle -= 2;
+          }
         }
-      }
-      else if (mit.game_over) {
-        // draw() is called as long as
-        // pappu hasnt hit boundaries and over'ed the game :P
+        else if (mit.game_over) {
+          // draw() is called as long as
+          // pappu hasnt hit boundaries and over'ed the game :P
 
-        // Game Over Gugglu!
-        this.rotate_angle += 4;
-      }
-      else {
-        if (this.rotate_angle < 30) {
-          this.rotate_angle += 2;
+          // Game Over Gugglu!
+          this.rotate_angle += 4;
+        }
+        else {
+          if (this.rotate_angle < 30) {
+            this.rotate_angle += 2;
+          }
         }
       }
 
@@ -229,6 +232,7 @@
         pappu_clone = Object.create(mit.Pappu);
 
         pappu_clone.invincible = 0;
+        pappu_clone.is_clone = true;
 
         this.clones.push(pappu_clone);
       }
@@ -245,7 +249,8 @@
           self.clones.splice(index, 1);
 
         clone.x += utils.randomNumber(5, 10);
-        clone.y += utils.randomNumber(-20, 20);
+        clone.y += 2 * (index - 1);
+        clone.rotate_angle = 10 * (index - 1);
 
         clone.draw(ctx);
       });
