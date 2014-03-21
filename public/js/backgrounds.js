@@ -100,7 +100,7 @@
         this.cloud_bg_move_speed = 2;
         this.backtree_bg_move_speed = 3;
         this.fronttree_bg_move_speed = 5;
-        this.ground_bg_move_speed = 9;
+        this.ground_bg_move_speed = 7;
         
         this.combined_bg_move_speed = 3;
     },
